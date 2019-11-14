@@ -1,2 +1,3 @@
 # hello-world
 learning how to do a repository
+I'm a girl who want to learn all about code and tech , I want to develop in back end and machine learning ...
